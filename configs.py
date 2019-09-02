@@ -1,2 +1,2 @@
-DEBUG = True
+DEBUG = False
 SECRET_KEY = b'\xdf\xf5\xa4\x04\xca&K\x130"\xea<\x03\x87\x9c\xce'
